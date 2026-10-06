@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ vars.mahir339 }}/docker-node-demo:latest
+          tags: ${{ vars.mahir339 }}/docker_practice:latest
