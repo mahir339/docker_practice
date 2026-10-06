@@ -1,4 +1,4 @@
-```yaml
+
 name: Build and Push Docker Image
 
 on:
@@ -26,5 +26,3 @@ jobs:
           context: .
           push: true
           tags: mahir339/docker_practice:latest
-```
-
